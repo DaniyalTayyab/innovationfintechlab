@@ -38,7 +38,7 @@ function SectionAboutCompany2Inner() {
                                         </div>
                                         <div className="sx-icon-bx-info">
                                             <span className="sx-icon-bx-title-info">Contact Phone</span>
-                                            <span className="sx-icon-bx-title">+55 (9900) 666 22</span>
+                                            <span className="sx-icon-bx-title">+971-50-8326364</span>
                                         </div>
                                     </div>
                                 </div>
