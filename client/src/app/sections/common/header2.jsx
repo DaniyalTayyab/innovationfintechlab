@@ -61,9 +61,9 @@ function Header2() {
                                     <li className={`${activeNav === 'about' && 'active'}`} onClick={() => handleActiveNav('about')}>
                                         <NavLink to="/about-us">About Us</NavLink>
                                     </li>
-                                    <li className={`${activeNav === 'portfolio' && 'active'}`} onClick={() => handleActiveNav('portfolio')}>
+                                    {/* <li className={`${activeNav === 'portfolio' && 'active'}`} onClick={() => handleActiveNav('portfolio')}>
                                         <NavLink to="/portfolio">Portfolio</NavLink>
-                                    </li>
+                                    </li> */}
                                     <li className={`${activeNav === 'contact' && 'active'}`} onClick={() => handleActiveNav('contact')}><NavLink to="/contact-us">Contact Us</NavLink></li>
                                 </ul>
                             </div>

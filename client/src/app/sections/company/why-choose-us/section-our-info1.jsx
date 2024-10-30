@@ -9,8 +9,8 @@ function SectionOurInfo1() {
                     <div className="col-lg-6 col-md-12">
                         <div className="sx-about-bx1-content">
                             <h2 className="sx-title">Our Vision</h2>
-                            <span className="sx-title-2">Leading the Future of IT Services for Global Success</span>
-                            <p>To be the leading IT service provider, recognized for our commitment to excellence, innovation, and sustainable growth, driving success for businesses worldwide through our expertise and dedication.</p>
+                            <span className="sx-title-2">Empowering Tomorrow's Innovations Through Blockchain Excellence.</span>
+                            <p>To be the foremost blockchain service provider, recognized for our innovative solutions and unwavering commitment to excellence, empowering businesses globally to thrive in a decentralized future.</p>
                             <div className="progress">
                                 <div className="progress-bar sx-bg-primary" role="progressbar" style={{ width: '95%' }} aria-valuenow={65} aria-valuemin={0} aria-valuemax={100}><span>95.00% Work Success</span></div>
                             </div>
