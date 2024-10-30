@@ -22,7 +22,7 @@ export function SectionWhyChooseUs2Inner() {
                         <ul className="sx-arrow-circle-checked">
                             <li>One-time security check fee: $99.95</li>
                             <li>Elite membership fee: $999.95 per month</li>
-                            <li>Coast-to-coast domestic flights: from $3,799.95</li>
+                            {/* <li>Coast-to-coast domestic flights: from $3,799.95</li> */}
                         </ul>
                         <NavLink to="/why-choose-us" className="site-button sx-btn-primary icon sx-btn-lg">
                             <i className="fa  fa-long-arrow-right" />

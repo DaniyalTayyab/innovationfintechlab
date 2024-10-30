@@ -20,7 +20,14 @@ function SectionServices2() {
                                 <div className="sx-icon-bx-4">
                                     <div className="sx-icon-box-wraper">
                                         <div className="sx-icon-bx-icon ">
-                                            <span className="sx-text-primary"><i className="flaticon-monitor" /></span>
+                                            <span className="sx-text-primary">
+                                                <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M12 2L2 7v7c0 5 10 10 10 10s10-5 10-10V7l-10-5z" fill="#4CAF50"/>
+                                                    <path d="M9 14h6v2H9v-2z" fill="#fff"/>
+                                                    <path d="M9 10h6v2H9v-2z" fill="#fff"/>
+                                                </svg>
+                                                {/* <i className="flaticon-monitor" /> */}
+                                            </span>
                                         </div>
                                         <div className="icon-content">
                                             <NavLink to="/contact-us"><h4 className="sx-tilte">Web3 Cybersecurity And Smart Contract Audit</h4></NavLink>
@@ -36,7 +43,14 @@ function SectionServices2() {
                                 <div className="sx-icon-bx-4">
                                     <div className="sx-icon-box-wraper">
                                         <div className="sx-icon-bx-icon ">
-                                            <span className="sx-text-primary"><i className="flaticon-mouse-1" /></span>
+                                            <span className="sx-text-primary">
+                                            <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <rect x="3" y="5" width="18" height="14" rx="2" fill="#FFC107"/>
+                                                <circle cx="12" cy="12" r="4" fill="#fff"/>
+                                            </svg>
+
+                                                {/* <i className="flaticon-mouse-1" /> */}
+                                            </span>
                                         </div>
                                         <div className="icon-content">
                                             <NavLink to="/contact-us"><h4 className="sx-tilte">Non-Fungible Token And Marketplace Development</h4></NavLink>
@@ -52,7 +66,12 @@ function SectionServices2() {
                                 <div className="sx-icon-bx-4">
                                     <div className="sx-icon-box-wraper">
                                         <div className="sx-icon-bx-icon ">
-                                            <span className="sx-text-primary"><i className="flaticon-layers" /></span>
+                                            <span className="sx-text-primary">
+                                            <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M3 12h18M12 3l9 9-9 9" stroke="#3F51B5" stroke-width="2" stroke-linecap="round"/>
+                                            </svg>
+                                                {/* <i className="flaticon-layers" /> */}
+                                            </span>
                                         </div>
                                         <div className="icon-content">
                                             <NavLink to="/contact-us"><h4 className="sx-tilte">Cryptocurrency Exchanges</h4></NavLink>
@@ -68,7 +87,14 @@ function SectionServices2() {
                                 <div className="sx-icon-bx-4">
                                     <div className="sx-icon-box-wraper">
                                         <div className="sx-icon-bx-icon ">
-                                            <span className="sx-text-primary"><i className="flaticon-web-design" /></span>
+                                            <span className="sx-text-primary">
+                                                <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <circle cx="8" cy="12" r="3" fill="#2196F3"/>
+                                                    <circle cx="16" cy="12" r="3" fill="#F44336"/>
+                                                    <path d="M5 12h14" stroke="#000" stroke-width="2" stroke-linecap="round"/>
+                                                </svg>
+                                                {/* <i className="flaticon-web-design" /> */}
+                                            </span>
                                         </div>
                                         <div className="icon-content">
                                             <NavLink to="/contact-us"><h4 className="sx-tilte">Public And Private Blockchain</h4></NavLink>
@@ -84,7 +110,13 @@ function SectionServices2() {
                                 <div className="sx-icon-bx-4">
                                     <div className="sx-icon-box-wraper">
                                         <div className="sx-icon-bx-icon ">
-                                            <span className="sx-text-primary"><i className="flaticon-monitor" /></span>
+                                            <span className="sx-text-primary">
+                                                <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <rect x="4" y="8" width="16" height="12" fill="#673AB7"/>
+                                                    <path d="M12 12v4" stroke="#fff" stroke-width="2"/>
+                                                </svg>
+                                                {/* <i className="flaticon-monitor" /> */}
+                                            </span>
                                         </div>
                                         <div className="icon-content">
                                             <NavLink to="/about-us"><h4 className="sx-tilte">Decentralized Crypto Vaults</h4></NavLink>
@@ -100,7 +132,13 @@ function SectionServices2() {
                                 <div className="sx-icon-bx-4">
                                     <div className="sx-icon-box-wraper">
                                         <div className="sx-icon-bx-icon ">
-                                            <span className="sx-text-primary"><i className="flaticon-mouse-1" /></span>
+                                            <span className="sx-text-primary">
+                                                <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <rect x="5" y="5" width="14" height="14" fill="#FF9800"/>
+                                                    <path d="M9 10h6v2H9v-2z" fill="#fff"/>
+                                                </svg>
+                                                {/* <i className="flaticon-mouse-1" /> */}
+                                            </span>
                                         </div>
                                         <div className="icon-content">
                                             <NavLink to="/about-us"><h4 className="sx-tilte">Smart Contracts</h4></NavLink>
@@ -116,7 +154,13 @@ function SectionServices2() {
                                 <div className="sx-icon-bx-4">
                                     <div className="sx-icon-box-wraper">
                                         <div className="sx-icon-bx-icon ">
-                                            <span className="sx-text-primary"><i className="flaticon-layers" /></span>
+                                            <span className="sx-text-primary">
+                                                <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <rect x="4" y="4" width="16" height="16" fill="#009688"/>
+                                                    <circle cx="12" cy="12" r="4" fill="#fff"/>
+                                                </svg>
+                                                {/* <i className="flaticon-layers" /> */}
+                                            </span>
                                         </div>
                                         <div className="icon-content">
                                             <NavLink to="/about-us"><h4 className="sx-tilte">Decentralized Apps (Dapps)</h4></NavLink>
@@ -132,7 +176,13 @@ function SectionServices2() {
                                 <div className="sx-icon-bx-4">
                                     <div className="sx-icon-box-wraper">
                                         <div className="sx-icon-bx-icon ">
-                                            <span className="sx-text-primary"><i className="flaticon-web-design" /></span>
+                                            <span className="sx-text-primary">
+                                                <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M12 2l4 4-4 4-4-4 4-4z" fill="#8BC34A"/>
+                                                    <path d="M12 22l-4-4 4-4 4 4-4 4z" fill="#FFC107"/>
+                                                </svg>
+                                                {/* <i className="flaticon-web-design" /> */}
+                                            </span>
                                         </div>
                                         <div className="icon-content">
                                             <NavLink to="/about-us"><h4 className="sx-tilte">Decentralized (DeFi) Solutions</h4></NavLink>

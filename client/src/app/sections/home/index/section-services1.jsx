@@ -43,8 +43,8 @@ function SectionServices1() {
                                                 <span className="sx-text-primary"><i className="flaticon-coding" /></span>
                                             </div>
                                             <div className="icon-content">
-                                                <h4 className="sx-tilte">Big Data &amp; Analytics</h4>
-                                                <p>Unlock the power of your data with our Big Data & Analytics services. Gain valuable insights, enhance decision-making, and drive business growth through advanced analytics.</p>
+                                                <h4 className="sx-tilte">Blockchain Analytics</h4>
+                                                <p>Harness the power of Blockchain Analytics to uncover insights from blockchain data, enhance decision-making, and drive growth through advanced analysis of transactions and trends.</p>
                                                 <div className="sx-center-btn">
                                                     <NavLink to="" className="site-button-circle active">
                                                         <i className="fa fa-long-arrow-right" />

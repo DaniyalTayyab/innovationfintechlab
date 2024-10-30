@@ -20,7 +20,7 @@ function Footer() {
                                         <div className="sx-f-call-icon"><i className="flaticon-telephone" /></div>
                                         <div className="sx-f-call-section">
                                             <span>Contact us 24/7</span>
-                                            <a href="tel:+55(990)66622">+55 (990) 666 22</a>
+                                            <a href="tel:+55(990)66622">+971-50-8326364</a>
                                         </div>
                                     </div>
                                 </div>
@@ -57,8 +57,8 @@ function Footer() {
                                                 <i className="flaticon-phone" />
                                             </div>
                                             <div className="widget-info-detail">
-                                                <a href="tel:+55(66633)2566">+ 55 ( 66633 ) 25 66</a>
-                                                <a href="tel:+55(66633)2577">+ 55 ( 66633 ) 25 77</a>
+                                                <a href="tel:+55(66633)2566">+971-50-8326364</a>
+                                                {/* <a href="tel:+55(66633)2577">+ 55 ( 66633 ) 25 77</a> */}
                                             </div>
                                         </li>
                                         <li>
@@ -74,7 +74,7 @@ function Footer() {
                                                 <i className="flaticon-maps-and-flags" />
                                             </div>
                                             <div className="widget-info-detail">
-                                                <p>88 Broklyn Golden Road Street New York. USA</p>
+                                                <p>Office 1503, City Tower Two, Shiekh Zaid Raod, Dubai</p>
                                             </div>
                                         </li>
                                     </ul>

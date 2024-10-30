@@ -26,17 +26,17 @@ function SectionAboutCompany1() {
                                 <div className="col-lg-6 col-md-12 wow fadeInDown" data-wow-duration="1000ms">
                                     <div className="sx-about-bx1-content">
                                         <h2 className="sx-title">That's why we're list of favorites.</h2>
-                                        <span className="sx-title-2">Nullam vel ligula lorem. Phasellus neque Etiam nequeretium.</span>
-                                        <p>There are many variations of passage of Lorem Ipsum all item available, but the majority have suffered alteration in some form injected humour Nullam.</p>
+                                        <span className="sx-title-2">We leverage blockchain technology to deliver tailored solutions that drive efficiency and growth.</span>
+                                        <p>There are many approaches to blockchain integration, but our expertise stands out. We prioritize transparency, security, and collaboration, helping businesses navigate the complexities of decentralized technology with ease.</p>
                                         <div className="progress">
                                             <div className="progress-bar sx-bg-primary" role="progressbar" style={{ width: '75%' }} aria-valuenow={75} aria-valuemin={0} aria-valuemax={100}><span>95.00% Work Success</span></div>
                                         </div>
                                         <div className="row sx-about-bx1-column">
                                             <div className="col-lg-6 col-md-6">
-                                                <p>Proin lobortis mauris vel dui egestas,non laoreet duolei hendrerit.</p>
+                                                <p>Custom solutions to enhance performance and drive innovation.</p>
                                             </div>
                                             <div className="col-lg-6 col-md-6">
-                                                <p>Fusce maximus turpis in magna cursus, vehicula bibendum sem placerat.</p>
+                                                <p>Expert guidance to optimize your IT strategy and efficiency.</p>
                                             </div>
                                         </div>
                                         <div className="row sx-about-icon-bx1-column">
